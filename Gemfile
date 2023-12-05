@@ -1,3 +1,4 @@
+bundle lock --add-platform x86_64-linux
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.3.2" # installed by `gem jekyll`
